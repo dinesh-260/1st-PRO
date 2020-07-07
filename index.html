@@ -7,42 +7,19 @@
 </head>
 <body>
   <div>
-    <header>
       <h1>
         Website Name
       </h1>
-    </header>
   </div> 
   <form>
     <div class="login">
-      
-      <div class="username">
-      <label for="user-name"></label>
-      <input id="user-name" type="text" name="user-name" placeholder="Phone number,username or E-mail" autocapitalize="off" maxlength="75" required/>
-      </div>
-      
-      <div class="password">
-        <label for="pass-word"></label>
-        <input id="pass-word" type="password" name="pass-word" autocapitalize="off" placeholder="Password" minlength="8" maxlength="75" required/>
-      </div>
-      
-      <div class="rem">
+        <input id="user-name" type="text" name="user-name" placeholder="Phone number,username or E-mail" autocapitalize="off" maxlength="75" required/><br>
+        <input id="pass-word" type="password" name="pass-word" autocapitalize="off" placeholder="Password" minlength="8" maxlength="75" required/><br>
         <label for="rem">Remember Me</label>
-        <input type="checkbox" name="rem" id="rem"/>
-      </div>
-
-      <div class="submit">
-        <input type="submit" value="login"/>
-      </div>
-
-      <div class="Forgetten">
-        <a href="./forgetpassword.html">Forgetten Password?</a>
-      </div>
-
-      <div class="creatacc">
+        <input type="checkbox" name="rem" id="rem"/><br>
+        <input type="submit" id="submit" value="login"/><br>
+        <a id="forgetpassword" href="./forgetpassword.html">Forgetten Password?</a><br>      
         <span>Don't have an account?<a href="./Sign up.html">Sign Up</a></span>
-      </div>
-
       </div>
   </form>
 </body>
