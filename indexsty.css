@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    background-image: url("empty-elegant-modern-grunge-dark-260nw-1194517084.webp");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1600px 900px;
+    font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
+
+    
+}
+.main{
+    text-align: center;
+    background-color: #ffffff;
+    width: 450px;
+    height: 470px;
+    margin: 7em auto;
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px ;
+    opacity: 90%;
+}
+h1{
+    padding-top: 40px;
+    color: rgb(0, 0, 0);
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 40px;
+    margin-bottom: 0px;
+    opacity: 100%;
+}
+#user-name{
+    width: 76%;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(2, 0, 0, 0.02);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+  
+    margin-left: 5px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+#pass-word{
+    width: 76%;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: rgba(0, 0, 0, 0.02);
+    padding: 10px 20px;
+    border:none;
+    border-radius: 50px;
+    outline: black;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+    margin-bottom: 50px;
+    margin-left: 5px;
+    text-align: center;
+    margin-bottom: 27px;
+    font-family: 'Ubuntu', sans-serif;
+}
+form.form1 {
+    padding-top: 40px;
+}
+.rem{
+    margin-left: -215px;
+    margin-top: -18px;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+}
+#submit{
+    cursor: pointer;
+        border-radius: 5em;
+        color: rgb(5, 0, 0);
+        background: linear-gradient(to right, #ffffff, #000000);
+        border: 0px;
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-bottom: 10px;
+        padding-top: 10px;
+        margin-top: 25px;
+        margin-bottom: 20px;
+        font-family: 'Ubuntu', sans-serif;
+        margin-left: 0%;
+        font-size: 15px;
+        font-weight: bolder;
+        box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+}
+#forgetpassword{
+    text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+    color: #2f00ff;
+        text-decoration: none
+}
+.new{
+    margin-top: 20px;
+    padding-bottom: 40px;
+    color: rgb(0, 0, 0);
+}
+#new1{
+    text-shadow: 0px 0px 3px rgba(117, 117, 117, 0.12);
+    color: #2f00ff;
+        text-decoration: none;
+
+}
