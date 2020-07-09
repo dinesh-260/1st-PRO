@@ -1,9 +1,10 @@
 body{
     margin: 0;
-    background-image: url("empty-elegant-modern-grunge-dark-260nw-1194517084.webp");
+    background-image: url("empty-elegant-modern-grunge-dark-260nw-1194517084.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 1600px 900px;
+    background-size: 1550px 900px;
+    height: 100%;
     font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, sans-serif;
 
     
@@ -13,10 +14,10 @@ body{
     background-color: #ffffff;
     width: 450px;
     height: 470px;
-    margin: 7em auto;
+    margin: 7em auto 3em auto;
     border-radius: 1.5em;
     box-shadow: 0px 11px 35px 2px ;
-    opacity: 90%;
+    opacity: 85%;
 }
 h1{
     padding-top: 40px;
@@ -53,7 +54,7 @@ h1{
     font-weight: 700;
     font-size: 14px;
     letter-spacing: 1px;
-    background: rgba(0, 0, 0, 0.02);
+    background: rgba(71, 46, 46, 0.02);
     padding: 10px 20px;
     border:none;
     border-radius: 50px;
